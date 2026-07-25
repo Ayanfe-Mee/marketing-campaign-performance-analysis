@@ -1,5 +1,21 @@
 # Marketing Campaign Performance Analysis
 
+##  Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Dataset](#dataset)
+- [Tools & Libraries](#tools--libraries)
+- [Project Workflow](#project-workflow)
+- [Key Visualizations](#key-visualizations)
+  - [Correlation Heatmap](#correlation-heatmap)
+  - [ROI Distribution by Campaign Type](#roi-distribution-by-campaign-type)
+  - [Average ROI by Campaign Type and Marketing Channel](#average-roi-by-campaign-type-and-marketing-channel)
+  - [KPI Comparison](#kpi-comparison)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Author](#author)
+
 ## Project Overview
 
 Marketing campaigns generate large volumes of data, but identifying which factors influence campaign success requires structured analysis.
@@ -62,25 +78,25 @@ Feature engineering was also performed to calculate:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Correlation_heatmap_of_marketing_metrics.png)
 
 ---
 
 ### ROI Distribution by Campaign Type
 
-![ROI Distribution](images/roi_by_campaign_type.png)
+![ROI Distribution](ROI_distribution_across_campaign_types.png)
 
 ---
 
 ### Average ROI by Campaign Type and Marketing Channel
 
-![ROI Heatmap](images/campaign_channel_heatmap.png)
+![ROI Heatmap](Average_roi_by_campaign_type_and_marketing_channel.png)
 
 ---
 
 ### KPI Comparison
 
-![KPI Comparison](images/kpi_comparison.png)
+![KPI Comparison](Comparison_of_average_roi_cpc_and_ctr_across_campaign_types.png)
 
 ## Key Findings
 
